@@ -24,17 +24,17 @@ const imageAltText = "purple and blue abstract background";
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I'm a UI/UX student studying at Barnett Technical University. I enjoy creating unique and simplistic user interfaces in creative ways.";
+  "I am a curious and creative person who loves finding new solutions. I've worked with different technologies and teams, always eager to learn and grow. Ready to take on new challenges, I'm excited to make a positive difference wherever I go.";
 
 /**
  * List of some of skills or technologies you work on, are learning,
  * passionate about, or enjoy,
  */
 const skillsList = [
-  "Web design",
-  "User experience",
+  "App design",
+  "AR Development with Unity",
   "Inclusive design",
-  "Focus group testing",
+  "Ai Model traneing",
   "Mobile user interfaces",
   "Graphic design",
 ];
@@ -45,7 +45,7 @@ const skillsList = [
  * about you on a professional level.
  */
 const detailOrQuote =
-  "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my UI/UX experience I continually look for new and better ways to make tech accessible by all.";
+  "I am pursuing a BSCS degree at Air University, where I am a Google DSC lead and a student ambassador for several programs and initiatives, such as Microsoft Learn Student Ambassadors, Nobel10 Technologies, Google Developer Student Clubs, and National Financial Literacy Program For Youth. ";
 
 const About = () => {
   return (
